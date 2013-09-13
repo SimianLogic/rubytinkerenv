@@ -8,3 +8,5 @@ to start it:
     ./console
     
 all it does is glob all the ruby files in the folder and subfolders and include them at bootup time. i also added a simple reload! function that works most of the time
+
+included is a "magic" scratch folder for dropping little scripts -- the gitignore will ignore any files in here, so i don't have to muck with a dirty git tree while doing experiments
